@@ -17,8 +17,8 @@ This app is designed to provide real-time, accurate weather forecasts for both o
 ## Visuals
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://media.github.uio.no/user/10378/files/dd9acc68-d86d-43d2-abe7-1cd736d62503" width="300" height="650" alt="homescreen" style="margin-right: 20px;">
-    <img src="https://media.github.uio.no/user/10378/files/8c83842c-2208-46e8-8e77-5e1e0c7388b0" width="300" height="650" alt="detailedweatherscreen" style="margin-right: 20px;">
+    <img src="https://github.com/user-attachments/assets/7c9170ab-0a04-4683-af24-7f1af33496c3" width="300" height="650" alt="homescreen" style="margin-right: 20px;">
+    <img src="https://github.com/user-attachments/assets/75a589e3-a255-4a89-957b-ddde41b040e5" width="300" height="650" alt="detailedweatherscreen" style="margin-right: 20px;">
    
  <img src="https://github.com/user-attachments/assets/7804d4d4-c828-439e-8bfc-0a98f2c2e7b7" width="300" height="650" alt="graf" style="margin-right: 20px;">
     </div>
