@@ -24,13 +24,13 @@ This app is designed to provide real-time, accurate weather forecasts for both o
     </div>
     
 <div style="display: flex; justify-content: center;">
-    <img src="https://media.github.uio.no/user/10378/files/09adb7d5-77f8-40c4-9dd2-ac6322de7e18" width="300" height="650" alt="map" style="margin-right: 20px;">
-    <img src="https://media.github.uio.no/user/10378/files/f8d32b52-d294-49ca-8438-08e0a37491e9" width="300" height="650" alt="detailedweathermap" style="margin-right: 20px;">
+    <img src="https://github.com/user-attachments/assets/11211f80-02a3-42e1-8dd9-5176a7a92122" width="300" height="650" alt="map" style="margin-right: 20px;">
+    <img src="https://github.com/user-attachments/assets/3679207f-26de-4d63-b17a-52c6b14cf8dc" width="300" height="650" alt="detailedweathermap" style="margin-right: 20px;">
     </div>
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://media.github.uio.no/user/10378/files/05905463-7d44-4904-90a6-087cd6dc6bbd" width="300" height="650" alt="læromhavet" style="margin-right: 20px;">
-    <img src="https://media.github.uio.no/user/10378/files/08b6cde5-b755-4a2d-9f0e-8a373c254c50" width="300" height="650" alt="hjelp">
+    <img src="https://github.com/user-attachments/assets/c2be4508-f131-4f33-86b8-42603961a98b" width="300" height="650" alt="læromhavet" style="margin-right: 20px;">
+    <img src="https://github.com/user-attachments/assets/cfdcb9c2-15ba-47ab-aa33-c85976687cff" width="300" height="650" alt="hjelp">
     </div>
 
 
