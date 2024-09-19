@@ -89,4 +89,4 @@ These tools collectively support building a dynamic, responsive, and user-friend
 
 
 Statistics:
-![alt text](havblikk-statistikk.png)
+![alt text](Havblikk-statistikk.png)
