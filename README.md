@@ -1,10 +1,10 @@
 # Team-44
-* Ola Gabriel Huus Skeie - ogskeie@uio.no
+* Ola - ogs****@uio.no
 * Carl Philip Bertelsen Brandal - cpbranda@uio.no
-* Muhammad Zeeshan Shahid - muhammzs@uio.no
-* Richard Natland - richan@uio.no
-* Magnus Auestad Skredderberget - magnask@uio.no
-* Henrik Molvik Fossum - henrimfo@uio.no
+* Muhammad - muham***@uio.no
+* Richard - ric***@uio.no
+* Magnus - magn***@uio.no
+* Henrik - henri***@uio.no
 
 This README is mostly for developers and others who want a deeper insight into our project.
 For more user-oriented information, see the rapport on pages 6-12.
@@ -86,3 +86,7 @@ In our project, we have leveraged several key libraries and frameworks to enhanc
 - **Ycharts** for creating and styling graphs.
 
 These tools collectively support building a dynamic, responsive, and user-friendly mobile application.
+
+
+Statistics:
+![alt text](havblikk-statistikk.png)
